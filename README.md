@@ -7,3 +7,4 @@ Folder that has my latest 2024 projects. Please take some time to look into them
 - [AdventureWorks Report](https://app.powerbi.com/view?r=eyJrIjoiNWNkZTI4NGItZmQ2YS00YjViLThiYWEtZjNiYWU0ODYxYThjIiwidCI6ImVhMWE5MDliLTY2MDAtNGEyNS04MmE1LTBjNmVkN2QwNTEzYiIsImMiOjl9)
 - [e-Commerce Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGMzZTY1NmYtNjhhNC00ZDRhLWEzZmQtNzM2MWJjZmMyMTAwIiwidCI6ImVhMWE5MDliLTY2MDAtNGEyNS04MmE1LTBjNmVkN2QwNTEzYiIsImMiOjl9)
 - [Maven Cycles Report](https://app.powerbi.com/view?r=eyJrIjoiMGEwNGI2NmItNTE1Ny00OTFlLTgyYjktNWQ1MDNmMDMzNjgyIiwidCI6ImVhMWE5MDliLTY2MDAtNGEyNS04MmE1LTBjNmVkN2QwNTEzYiIsImMiOjl9)
+- [Human Resources Report](https://app.powerbi.com/view?r=eyJrIjoiMjRmZGM4ZGItMDhlMC00NGNkLWJjODUtMDc0YjAwMDE4ZWE3IiwidCI6ImVhMWE5MDliLTY2MDAtNGEyNS04MmE1LTBjNmVkN2QwNTEzYiIsImMiOjl9)
